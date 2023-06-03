@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<div align="center">
-  <a href="https://github.com/MDrica1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MDrica1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDrica1&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 - 🔭 I recently graduated in Astrophysics, where I used computing in some disciplines and to complete my Final Paper, and now I'm looking to learn more about this universe and start a career transition. I've been taking courses and I've already collaborated on a mobile app development project.
 
