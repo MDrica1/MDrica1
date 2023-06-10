@@ -5,11 +5,6 @@
 
 - I’m looking to collaborate on more projects to expand my knowledge in computing and start my new career project.
 
-<div>
-<img align="center" alt="Python Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Sql Icon" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-<div>
-
 - 📫 How to reach me: 
 <div> 
   <a href = "mailto:dielemendonca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -17,6 +12,11 @@
    
 </div>
 
+
+<div>
+<img align="center" alt="Python Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Sql Icon" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+<div>
 
 <!--
 **MDrica1/MDrica1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
