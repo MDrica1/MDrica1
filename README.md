@@ -3,9 +3,9 @@
 
 I am an astrophysicist orbiting the world of Data.
 
-I was traveling through space hunting variable stars, when, suddenly, a massive planet diverted my trajectory and trapped me in an eccentric orbit. The large body had several moons, called Python, Pandas, SQL etc. 
+I was traveling through space hunting variable stars, when, suddenly, a massive planet diverted my trajectory and trapped me in an eccentric orbit. The large body had several moons, called Python, Pandas, SQL etc.
 
-The name of the big planet is Data.
+The name of the huge planet is Data.
 
 :D
 
