@@ -15,6 +15,8 @@ My skills cover:
 
 - Power BI, DAX, M
 
+- Advanced Excel
+
 - Artificial intelligence, in the area of Computer Vision
 
 Furthermore, my astrophysical background gives me sharp analytical thinking and mathematical skills.
