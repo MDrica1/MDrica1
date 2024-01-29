@@ -24,6 +24,7 @@ Furthermore, my astrophysical background gives me sharp analytical thinking and 
 - 📫 Contact me at the speed of light: 
 <div> 
   <a href = "mailto:dielemendonca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-ba dge&logo=gmail&logoColor=white" target="_blank"></a>
+  
   <a href="https://www.linkedin.com/in/andriele-mendon%C3%A7a-003b56167" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
    
@@ -35,6 +36,7 @@ Furthermore, my astrophysical background gives me sharp analytical thinking and 
   <img align="center" alt="Sql Icon" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
     <img align="center" alt="Jupyter-notebook Icon" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
  <img align="center" alt="Power-BI Icon" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
+ <img align="center" alt="Java Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
      
 <div>
 
@@ -61,6 +63,8 @@ Here are some ideas to get you started:
 
   <img align="center" alt="Python Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sql Icon" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png)">
+  <img align="center" alt="Java Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
  
 </div>
 
