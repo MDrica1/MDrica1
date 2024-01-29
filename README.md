@@ -24,7 +24,6 @@ Furthermore, my astrophysical background gives me sharp analytical thinking and 
 - 📫 Contact me at the speed of light: 
 <div> 
   <a href = "mailto:dielemendonca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-ba dge&logo=gmail&logoColor=white" target="_blank"></a>
-  
   <a href="https://www.linkedin.com/in/andriele-mendon%C3%A7a-003b56167" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
    
