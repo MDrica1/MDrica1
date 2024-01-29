@@ -1,5 +1,4 @@
-### Hi there 🚀 
-
+### Hi there 🚀            
 
 I am an astrophysicist orbiting the world of Data.
 
@@ -21,14 +20,13 @@ My skills cover:
 
 Furthermore, my astrophysical background gives me sharp analytical thinking and mathematical skills.
 
-- 📫 Contact me at the speed of light: 
+- 📫 Contact me at the speed of light:
 <div> 
   <a href = "mailto:dielemendonca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-ba dge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andriele-mendon%C3%A7a-003b56167" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-   
+  <a href="https://www.linkedin.com/in/andriele-mendon%C3%A7a-003b56167" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+##
 
 <div>
 <img align="center" alt="Python Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -36,8 +34,12 @@ Furthermore, my astrophysical background gives me sharp analytical thinking and 
     <img align="center" alt="Jupyter-notebook Icon" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
  <img align="center" alt="Power-BI Icon" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
  <img align="center" alt="Java Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-     
-<div>
+ <div>
+   
+<div align="center">
+  <a href="https://github.com/MDrica1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDrica1&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <!--
 **MDrica1/MDrica1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -63,8 +65,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Python Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sql Icon" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png)">
   <img align="center" alt="Java Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
  
 </div>
+
 
 -->
