@@ -12,7 +12,7 @@ My skills cover:
 
 - Statistics (F-Test, Chi-square, p-value, standard deviation, variance etc)
 
-- Power BI, DAX, M
+- Power BI, DAX
 
 - Advanced Excel
 
