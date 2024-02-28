@@ -16,7 +16,7 @@ My skills cover:
 
 - Advanced Excel
 
-- Artificial intelligence, in the area of Computer Vision
+- Artificial intelligence
 
 Furthermore, my astrophysical background gives me sharp analytical thinking and mathematical skills.
 
