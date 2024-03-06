@@ -35,6 +35,8 @@ Furthermore, my astrophysical background gives me sharp analytical thinking and 
  <img align="center" alt="Power-BI Icon" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">
  <img align="center" alt="Java Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <div>
+
+ <!--
    
 <div align="center">
   <a href="https://github.com/MDrica1">
@@ -45,7 +47,7 @@ Furthermore, my astrophysical background gives me sharp analytical thinking and 
 
 
 
-<!--
+
 **MDrica1/MDrica1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
